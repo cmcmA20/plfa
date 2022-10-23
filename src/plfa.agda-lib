@@ -1,3 +1,4 @@
 name: plfa
-depend: standard-library
-include: .
+include:
+  ../../agda-stdlib/src/
+  .
